@@ -14,9 +14,6 @@ This project performs comprehensive analysis on hotel booking data using machine
 ```
 ├── EDA_Clustering.ipynb          # Exploratory Data Analysis & Customer Segmentation
 ├── model.ipynb                   # Machine Learning Models for Cancellation Prediction
-├── hotel_bookings.csv            # Dataset (119,390 hotel booking records)
-├── ML_Report.pdf                 # Detailed project report
-├── ML_finalpresentation.pdf      # Project presentation
 └── README.md                     # This file
 ```
 
@@ -91,15 +88,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ## 📋 Files Description
 - **`EDA_Clustering.ipynb`**: Complete exploratory data analysis and customer segmentation
 - **`model.ipynb`**: Machine learning pipeline for cancellation prediction
-- **`hotel_bookings.csv`**: Original dataset
-- **`ML_Report.pdf`**: Comprehensive project report
-- **`ML_finalpresentation.pdf`**: Project presentation slides
 
 ## 🎓 Academic Context
 This project was developed as part of the Machine Learning I course at the University of Chicago, demonstrating practical application of machine learning techniques to real-world business problems.
-
-## 📞 Contact
-For questions about this project, please refer to the detailed analysis in the Jupyter notebooks or the comprehensive report in `ML_Report.pdf`.
-
----
-*Last updated: September 2024*
